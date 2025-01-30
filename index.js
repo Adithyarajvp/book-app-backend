@@ -36,6 +36,3 @@ main()
 app.listen(port,()=>{
     console.log(`Server is running on port ${port}`);
 })
-
-// password: book@123
-// username: adithyarajvp
